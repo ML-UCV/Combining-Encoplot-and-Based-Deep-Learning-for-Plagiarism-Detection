@@ -1,0 +1,1 @@
+# Combining-Encoplot-and-Based-Deep-Learning-for-Plagiarism-Detection
